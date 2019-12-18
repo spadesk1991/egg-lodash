@@ -1,6 +1,6 @@
 {
   "name": "egg-lodash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "egg-plugin egg-lodash",
   "eggPlugin": {
     "name": "lodash"
@@ -49,12 +49,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-lodash.git"
+    "url": "git+https://github.com/spadesk1991/egg-lodash.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/spadesk1991/egg-lodash/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-lodash#readme",
+  "homepage": "https://github.com/spadesk1991/egg-lodash#readme",
   "author": "spadesk",
   "license": "MIT"
 }
